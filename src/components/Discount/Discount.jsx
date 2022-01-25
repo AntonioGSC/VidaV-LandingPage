@@ -5,7 +5,7 @@ import './Discount.css'
 
 function Discount() {
   return (
-    <div className='discount-div'>
+    <div className='discount-div' id='discount'>
       <div className="div_container discount-container">
         <h3 className="discount-title">Até 70% de desconto em medicamentos</h3>
         <p className="discount-subtitle">Rede de descontos em mais de 27 mil farmácias, espalhadas em mais de 3 mil municípios com farmácias parceiras</p>

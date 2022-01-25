@@ -1,0 +1,21 @@
+.care-container{
+  flex-direction: column!important;
+}
+
+.care-title{
+  text-align: center;
+  margin: 0 auto;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.care_cards{
+  margin-top: 60px;
+  width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+}

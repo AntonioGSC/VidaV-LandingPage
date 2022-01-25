@@ -13,11 +13,11 @@ function Main() {
           <p className="main-info_subtitle">Atendimento médico na palma da sua mão sempre que precisar! 24h por dia, 7 dias da semana. Planos a partir de R$ 29,90 mensais</p>
           <div className="main-div_button">
             <button className="main-button_assign">Assine já</button>
-            <a href="" className="main-link"><img src={Google} alt="" className="main-link_image" /></a>
+            <a href="https://play.google.com/store/apps/details?id=com.teladoc.vivo.vidav&_ga=2.142158001.264395086.1642885400-1768601523.1642795657" target="_blank" className="main-link"><img src={Google} alt="Google Play" className="main-link_image" /></a>
           </div>
         </div>
         <div className="main-div_image">
-          <img src={Mockup} alt="" className="main-image" />
+          <img src={Mockup} alt="Vida V" className="main-image" />
         </div>
       </div>
     </div>

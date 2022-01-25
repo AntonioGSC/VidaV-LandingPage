@@ -1,0 +1,38 @@
+.fixedFooter-div{
+  display: absolute;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  color: white;
+  background-image: url("../../assets/images/background-footer-fixed.png");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+.fixedFooter-div_container{
+  height: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20px;
+  gap: 20px;
+}
+
+.fixedFooter-text{
+  font-size: 16px;
+}
+
+.fixedFooter-links{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.apple-image{
+  margin-bottom: 6px;
+}

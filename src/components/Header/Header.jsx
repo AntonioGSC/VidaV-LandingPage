@@ -11,10 +11,10 @@ function Header() {
           <img src={Logo} alt="Vida-V Logo" className="header-logo" />
         </div>
         <div className="header-div_nav">
-          <a href="" className="header-nav_option">Sobre nós</a>
-          <a href="" className="header-nav_option">Assinaturas</a>
-          <a href="" className="header-nav_option">Farmácias Parceiras</a>
-          <a href="" className="header-nav_option">Como funciona</a>
+          <a href="#about" className="header-nav_option">Sobre nós</a>
+          <a href="#signature" className="header-nav_option">Assinaturas</a>
+          <a href="#discount" className="header-nav_option">Farmácias Parceiras</a>
+          <a href="#care" className="header-nav_option">Como funciona</a>
           <button className="main-button_assign">Cadastre-se</button>
         </div>
       </div>

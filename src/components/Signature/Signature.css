@@ -1,0 +1,10 @@
+.signature-title{
+  text-align: center;
+  margin: 0 auto;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.signature-container {
+  flex-direction: column!important;
+}
