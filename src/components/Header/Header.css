@@ -1,0 +1,33 @@
+.header-div{
+  display: absolute;
+  position: fixed;
+  width: 100%;
+  height: 75px;
+  color: white;
+  background: rgba(37,130,222,0.4);
+  backdrop-filter: blur(5px);
+}
+
+.header-div_container{
+  height: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.header-div_logo{
+  height: 40px;
+}
+
+.header-logo{
+  height: 100%;
+}
+
+.header-nav_option{
+  color: white;
+  margin-right: 16px;
+  text-decoration: none;
+}

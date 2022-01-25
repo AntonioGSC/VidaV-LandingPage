@@ -1,0 +1,8 @@
+.div_container{
+  max-width: 1200px;
+  padding: 80px 20px 0;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}

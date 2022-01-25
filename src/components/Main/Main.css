@@ -1,0 +1,61 @@
+.main-div {
+  background-image: url("../../assets/images/background-header.png");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  height: 100%;
+  padding-bottom: 80px;
+}
+
+.div_container{
+  max-width: 1200px;
+  padding: 80px 20px 0;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.main-info_main{
+  padding-top: 50px;
+  font-size: 40px;
+  line-height: 52px;
+  font-weight: 600;
+  color: #FFFFFF;
+  margin: 0;
+}
+
+.main-info_subtitle{
+  color: #FFFFFF;
+  font-size: 16px;
+}
+
+.main-div_button{
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.main-button_assign{
+  width: 145px;
+  height: 40px;
+  color: #750CC8;
+  font-weight: 600;
+  font-size: 14px;
+  border-radius: 8px;
+  border: none;
+  margin-right: 25px;
+}
+
+.main-link{
+  width: 30px;
+  height: 30px;
+}
+
+.main-link_image{
+  width: 30px;
+}
+
+.main-image{
+  width: 600px;
+}

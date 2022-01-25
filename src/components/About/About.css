@@ -1,0 +1,28 @@
+.about-container{
+  flex-direction: column;
+}
+
+.about-aboutUs{
+  font-size: 30px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.about-div_content{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.about-text{
+  font-size: 18px;
+}
+
+.about-div_content_image{
+  width: 400px;
+  margin-left: 100px;
+}
+
+.about-image{
+  width: 400px;
+}
